@@ -7,8 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.mayarafelix.retrofitsample.CustomViewHolder;
 import com.example.mayarafelix.retrofitsample.R;
+import com.example.mayarafelix.retrofitsample.holders.CustomViewHolder;
 import com.example.mayarafelix.retrofitsample.models.RetroPhoto;
 import com.jakewharton.picasso.OkHttp3Downloader;
 import com.squareup.picasso.Picasso;
